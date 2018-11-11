@@ -1,0 +1,11 @@
+MainClass=1
+Type=4
+Identifier=9
+ClassDecl=2
+Exp_remainer=8
+VarDecl=3
+Statement=6
+MethodDecl=5
+INTEGER_LITERAL=11
+IDENTIFIER=10
+Exp=7
